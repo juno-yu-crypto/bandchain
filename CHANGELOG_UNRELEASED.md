@@ -18,6 +18,8 @@
 
 ### Emitter & Flusher
 
+- (impv) [\#2450](https://github.com/bandprotocol/bandchain/pull/2450) Add commutative_requests view table.
+
 ### Scan
 
 - (bugs) [\#2383](https://github.com/bandprotocol/bandchain/pull/2383) Support `EditValidator` Message for Wenchang and Guan Yu
