@@ -19,6 +19,8 @@
 
 ### Emitter & Flusher
 
+- (impv) [\#2452](https://github.com/bandprotocol/bandchain/pull/2452) Impelemented view table to calculate oracle script response time
+
 ### Scan
 
 - (impv) [\#2449](https://github.com/bandprotocol/bandchain/pull/2449) Adjusted gas limit as msg
